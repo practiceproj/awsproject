@@ -6,7 +6,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 The application is developed using angular. The application is deployed in amazon S3 using CloudFront. 
 
 # URL's
-S3 static website hosting URL:
-http://currency-converter-angular.s3-website.ap-south-1.amazonaws.com
-CloudFront Url:
-https://d2f49ik9qyi8fv.cloudfront.net
+S3 static website hosting URL:http://currency-converter-angular.s3-website.ap-south-1.amazonaws.com
+CloudFront Url:https://d2f49ik9qyi8fv.cloudfront.net
